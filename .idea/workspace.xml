@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c869947f-8b44-4b39-8e87-e91ab9fe37d5" name="Changes" comment="Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)" />
+    <list default="true" id="c869947f-8b44-4b39-8e87-e91ab9fe37d5" name="Changes" comment="Caso 4: Calcular promedio con un conjunto de n elementos (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +134,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729027726056</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027797995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027797995</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729027930545</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027930545</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027987941</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027987941</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +169,9 @@
     <MESSAGE value="Caso 2: Calcular promedio con un conjunto de un elemento (Rojo)" />
     <MESSAGE value="Caso 2: Calcular promedio con un conjunto de un elemento (Verde)" />
     <MESSAGE value="Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)" />
+    <MESSAGE value="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)" />
+    <MESSAGE value="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
+    <MESSAGE value="Caso 4: Calcular promedio con un conjunto de n elementos (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 4: Calcular promedio con un conjunto de n elementos (Verde)" />
   </component>
 </project>
